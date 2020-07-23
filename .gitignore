@@ -2,5 +2,6 @@
 *.o
 *.elf
 
-# Executables
+# Executables or related
 *.pbp
+*.SFO
